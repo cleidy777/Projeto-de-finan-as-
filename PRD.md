@@ -296,5 +296,5 @@ Capacitar indivíduos a tomar decisões financeiras inteligentes e conscientes a
 
 ---
 
-**Documento criado com ❤️ + 💻 | Vibe Coding ✨**
- Resumo de como foi minha jornada aprendendo IA como foi difícil no começo, como foi um desafio usar cada ferramenta com Github, lovable, copilot, etc. Aprendi  que conversar com IA é basicamente conversar com uma pessoa. Tive muita dificuldade pois não tenho computador, também sou iniciante na área da IA. Foi muito difícil fazer esses projetos pelo celular. Mais valeu apena casa aprendizado.
+**Documento criado com ❤️ + 💻 | Vibe Coding ✨**                                  
+  Resumo de como foi minha jornada aprendendo IA como foi difícil no começo, como foi um desafio usar cada ferramenta com Github, lovable, copilot, etc. Aprendi  que conversar com IA é basicamente conversar com uma pessoa. Tive muita dificuldade pois não tenho computador, também sou iniciante na área da IA. Foi muito difícil fazer esses projetos pelo celular. Mais valeu apena cada aprendizado.
